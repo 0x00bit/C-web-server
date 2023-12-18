@@ -119,7 +119,7 @@ int menu()
 		break;
 	    
 	    default:
-		printf("please select an valid option");
+		printf("please select an valid option \n");
 
 	}
 	return 0;
