@@ -7,7 +7,7 @@
 #include <unistd.h>
 #include <stdlib.h>
 
-int sv_port = 0;
+int sv_port = 8080;
 int ip_addr = 0;
 
 void banner()
